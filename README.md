@@ -5,9 +5,9 @@ This project is a simple Java-based command-line subnet calculator, which allows
 - Binary conversion of IP and subnet mask.
 - Bitwise AND operation to determine the network address.
 - Calculates and displays:
-- Subnet mask in binary.
-- Network address.
-- Subnet ranges for a specified number of subnets.
+  - Subnet mask in binary.
+  - Network address.
+  - Subnet ranges for a specified number of subnets.
 - Handles binary arithmetic and subnetting logic internally.
 # 🧾 How It Works
 1. The user is prompted to input the 4 octets of an IP address (0–255).
