@@ -1,6 +1,6 @@
 # 🧮 Subnet Calculator (Java CLI)
 This project is a simple Java-based command-line subnet calculator, which allows users to input an IPv4 address and a subnet mask length, then calculates and displays subnet addresses for a given number of subnets.
-# 📌 Features
+## 📌 Features
 - User input validation for IPv4 address and subnet mask.
 - Binary conversion of IP and subnet mask.
 - Bitwise AND operation to determine the network address.
@@ -9,7 +9,7 @@ This project is a simple Java-based command-line subnet calculator, which allows
   - Network address.
   - Subnet ranges for a specified number of subnets.
 - Handles binary arithmetic and subnetting logic internally.
-# 🧾 How It Works
+## 🧾 How It Works
 1. The user is prompted to input the 4 octets of an IP address (0–255).
 2. The user enters the length of the subnet mask (1–32).
 3. The program asks for the number of desired subnets.
@@ -17,7 +17,7 @@ This project is a simple Java-based command-line subnet calculator, which allows
 - Calculates how many bits are needed.
 - Generates subnet addresses by binary manipulation.
 - Displays the binary and decimal representation of each calculated subnet.
-# 🚀 Running the Project
+## 🚀 Running the Project
 1. Compile the program:
 ```bash
 javac Main.java
@@ -27,7 +27,7 @@ javac Main.java
 java Main
 ```
 3. Follow the prompts in the console.
-# 📝 Example Output
+## 📝 Example Output
 ```yaml
 Podaj 1 oktet: 192
 Podaj 2 oktet: 168
