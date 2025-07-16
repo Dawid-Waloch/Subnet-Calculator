@@ -25,5 +25,4 @@ Podaj 3 oktet: 1
 Podaj 4 oktet: 0
 Podaj dlugosc maski: 24
 Podaj liczbę podsieci: 4
-...
 ```
